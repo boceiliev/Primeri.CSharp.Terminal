@@ -1,0 +1,2 @@
+D:\aula\Primeri.CSharp.Terminal\Modu02\Modu02\bin\Release\Modu02.exe
+D:\aula\Primeri.CSharp.Terminal\Modu02\Modu02\obj\x86\Release\Modu02.exe
