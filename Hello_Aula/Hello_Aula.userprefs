@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{F2EC0282-DC2F-4A8D-BFDB-B79D217738DF}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.ItemProperties.Hello__Aula PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hello_Aula\Program.cs">
+    <Files>
+      <File FileName="Hello_Aula\Program.cs" Line="10" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

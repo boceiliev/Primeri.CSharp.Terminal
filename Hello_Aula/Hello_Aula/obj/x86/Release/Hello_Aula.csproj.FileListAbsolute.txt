@@ -1,0 +1,2 @@
+D:\aula\Primeri.CSharp.Terminal\Hello_Aula\Hello_Aula\bin\Release\Hello_Aula.exe
+D:\aula\Primeri.CSharp.Terminal\Hello_Aula\Hello_Aula\obj\x86\Release\Hello_Aula.exe
